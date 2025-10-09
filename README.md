@@ -82,6 +82,10 @@ This dashboard provides a comprehensive view of **Blinkit sales performance, out
 
 ---
 
-## 📧 Contact
+## 🧠 Author
 
-🔗 [LinkedIn – Harsh Belekar](https://www.linkedin.com/in/harshbelekar)
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | [GitHub](https://github.com/Harsh-Belekar)
+
+📧 **harshbelekar74@gmail.com**

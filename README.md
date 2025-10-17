@@ -1,10 +1,12 @@
 # 📊 Blinkit Sales Dashboard (Excel)
 
 An interactive **Excel Dashboard** built to analyze **Blinkit grocery sales performance** across items, outlets, and customer ratings.  
-This project showcases **data analysis, pivot tables, and dashboard design skills**.
+This project showcases **data cleaning with Power Query, analysis with Pivot Tables, and interactive dashboard design**.
 
 ![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
+![Feature](https://img.shields.io/badge/Feature-Power_Query-lightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Sales_Analysis-blue)
+![Analysis](https://img.shields.io/badge/Focus-Data_Visualization-orange)
 ![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-yellow)
 ![Domain](https://img.shields.io/badge/Domain-Retail_Analytics-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -70,8 +72,8 @@ Key business insights derived from the analysis:
 ## 🛠️ Tools Used
 
 - **Microsoft Excel**
-  - Pivot Tables  
-  - Pivot Charts  
+  - Power Query (Data Cleaning & Transformation)
+  - Pivot Tables & Charts  
   - Slicers & Filters  
   - Conditional Formatting  
 

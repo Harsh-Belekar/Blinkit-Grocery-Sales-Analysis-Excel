@@ -9,6 +9,7 @@ This project showcases **data cleaning with Power Query, analysis with Pivot Tab
 ![Analysis](https://img.shields.io/badge/Focus-Data_Visualization-orange)
 ![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-yellow)
 ![Domain](https://img.shields.io/badge/Domain-Retail_Analytics-orange)
+![ETL](https://img.shields.io/badge/Process-ETL-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---

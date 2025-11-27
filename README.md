@@ -128,3 +128,6 @@ Key business insights derived from the dashboard:
 ## 🏷️ Repository Topics
 `excel` · `power-query` · `power-pivot` · `data-analysis` · `dashboard` · `etl` · `business-intelligence` · `retail-analytics` · `sales-insights`
 
+---
+
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*

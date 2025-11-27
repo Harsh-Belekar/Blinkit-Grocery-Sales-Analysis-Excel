@@ -123,3 +123,8 @@ Key business insights derived from the dashboard:
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
 
+---
+
+## 🏷️ Repository Topics
+`excel` · `power-query` · `power-pivot` · `data-analysis` · `dashboard` · `etl` · `business-intelligence` · `retail-analytics` · `sales-insights`
+

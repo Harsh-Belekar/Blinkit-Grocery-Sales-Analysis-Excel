@@ -34,7 +34,7 @@ The goal is to enable **data-driven decisions** for improving sales, customer sa
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Images/Dashboard_Screenshot.png)
 
 ---
 
@@ -83,16 +83,22 @@ Key business insights derived from the dashboard:
 ## 📁 Project Structure
 
 ```
-📁 Blinkit-Grocery-Sales-Analysis
+├── 📘 README.md 
 │
-├── 📁 images/
-├── 🗂️ Blinkit Grocery Data.xlsx
-├── 📊 Blinkit Grocery Dashboard.xlsx
-├── 📄 Blinkit Grocery Sales Analysis Report.pdf
-├── 📄 Business Problem.pdf
-├── 🖼️ Dashboard_Screenshot.png
-└── 📘 README.md
+├── 📁 data/
+│       └── Blinkit Grocery Data.xlsx
+│
+├── 📄 Docs/ 
+│       ├──  Business Problem.pdf
+│       └──  Blinkit Grocery Sales Analysis Report.pdf
+│
+├── 📊 Excel-Analysis/
+│       └──  Blinkit Grocery Dashboard.xlsx
+│
+└── 🖼️ Images/
+        └──  Dashboard_Screenshot.png
 ```
+
 ---
 
 ## 🛠️ Tools Used
@@ -122,11 +128,6 @@ Key business insights derived from the dashboard:
 📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
 📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
-
----
-
-## 🏷️ Repository Topics
-`excel` · `power-query` · `power-pivot` · `data-analysis` · `dashboard` · `etl` · `business-intelligence` · `retail-analytics` · `sales-insights`
 
 ---
 
